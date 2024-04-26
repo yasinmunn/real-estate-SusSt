@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/RF8XXF55/Card-1.avif",
+        "date": "AUG 12 2023",
+        "category": "RESIDENTIAL",
+        "title": "Modern Family Home",
+        "project_title": "Family Home",
+        "project_category": "Single-Family"
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/dQkWD8rq/card-2.jpg",
+        "date": "MAY 12 2022",
+        "category": "RESIDENTIAL",
+        "title": "Luxury Waterfront Villa",
+        "project_title": "Waterfront Villa",
+        "project_category": "Luxury"
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/sg9fzC1h/img.jpg",
+        "date": "JAN 10 2020",
+        "category": "RESIDENTIAL",
+        "title": "Cozy Suburban Retreat",
+        "project_title": "Suburban Retreat",
+        "project_category": "Charming"
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/dQkWD8rq/card-2.jpg",
+        "date": "MAY 12 2022",
+        "category": "RESIDENTIAL",
+        "title": "Luxury Waterfront Villa",
+        "project_title": "Waterfront Villa",
+        "project_category": "Luxury"
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/sg9fzC1h/img.jpg",
+        "date": "JAN 10 2020",
+        "category": "RESIDENTIAL",
+        "title": "Cozy Suburban Retreat",
+        "project_title": "Suburban Retreat",
+        "project_category": "Charming"
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/dQkWD8rq/card-2.jpg",
+        "date": "MAY 12 2022",
+        "category": "RESIDENTIAL",
+        "title": "Luxury Waterfront Villa",
+        "project_title": "Waterfront Villa",
+        "project_category": "Luxury"
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/sg9fzC1h/img.jpg",
+        "date": "JAN 10 2020",
+        "category": "RESIDENTIAL",
+        "title": "Cozy Suburban Retreat",
+        "project_title": "Suburban Retreat",
+        "project_category": "Charming"
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/d0V6FdJc/card-4.jpg",
+        "date": "SEP 22 2021",
+        "category": "RESIDENTIAL",
+        "title": "Urban Penthouse Retreat",
+        "project_title": "Urban Penthouse",
+        "project_category": "Luxurious"
+    }
+]

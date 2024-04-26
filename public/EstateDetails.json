@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.postimg.cc/fLwz1yk4/like-15171547-removebg-preview.png",
+        "title": "In Home Support",
+        "description": "In-home support: Medical assistance tailored to your needs, provided within the comfort of your home.",
+        "category": "Healthcare",
+        "location": "Your Home",
+        "duration": "Flexible",
+        "availability": "24/7",
+        "cost": "Varies depending on services",
+        "contact": {
+            "phone": "123-456-7890",
+            "email": "info@yourhomehealthcare.com",
+            "website": "https://www.yourhomehealthcare.com"
+        }
+    },
+    {
+        "id": 2,
+        "image": "https://i.postimg.cc/j5XHrDXy/examination-2869812-removebg-preview.png",
+        "title": "Carrers to Client",
+        "description": "Connecting healthcare professionals with clients seeking quality care and assistance ",
+        "category": "Healthcare",
+        "location": "Your Home",
+        "duration": "Flexible",
+        "availability": "24/7",
+        "cost": "Varies depending on services",
+        "contact": {
+            "phone": "123-456-7890",
+            "email": "info@yourhomehealthcare.com",
+            "website": "https://www.yourhomehealthcare.com"
+        }
+    },
+    {
+        "id": 3,
+        "image": "https://i.postimg.cc/bYVnHcFY/nurse-2719553-removebg-preview.png",
+        "title": "Nursing Care",
+        "description": "Professional nursing care: Compassionate support tailored to individual needs, ensuring optimal health outcomes",
+        "category": "Healthcare",
+        "location": "Your Home",
+        "duration": "Flexible",
+        "availability": "24/7",
+        "cost": "Varies depending on services",
+        "contact": {
+            "phone": "123-456-7890",
+            "email": "info@yourhomehealthcare.com",
+            "website": "https://www.yourhomehealthcare.com"
+        }
+    },
+    {
+        "id": 4,
+        "image": "https://i.postimg.cc/s231Cw00/icons8-heart-health-80-removebg-preview.png",
+        "title": "Healthcare Guarantee",
+        "description": "Assurance of quality healthcare services, prioritizing patient well-being and satisfaction, backed by expertise.",
+        "category": "Healthcare",
+        "location": "Your Home",
+        "duration": "Flexible",
+        "availability": "24/7",
+        "cost": "Varies depending on services",
+        "contact": {
+            "phone": "123-456-7890",
+            "email": "info@yourhomehealthcare.com",
+            "website": "https://www.yourhomehealthcare.com"
+        }
+    }
+    
+]

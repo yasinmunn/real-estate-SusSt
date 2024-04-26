@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@100..800&family=Outfit:wght@100..900&display=swap');
+
+.outfit {
+    font-family: 'Outfit', sans-serif;
+}
+.anek {
+    font-family: 'Anek Kannada', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

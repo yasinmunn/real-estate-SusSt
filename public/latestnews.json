@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "JAN 15 2023",
+        "category": "RESIDENTIAL",
+        "title": "Modern Family Home in Suburbia Estates",
+        "image": "https://i.postimg.cc/RF8XXF55/Card-1.avif"
+    },
+    {
+        "id": 2,
+        "date": "FEB 28 2023",
+        "category": "RESIDENTIAL",
+        "title": "Luxury Waterfront Villa in Seaside City",
+        "image": "https://i.postimg.cc/dQkWD8rq/card-2.jpg"
+    },
+    {
+        "id": 3,
+        "date": "MAR 20 2023",
+        "category": "RESIDENTIAL",
+        "title": "Cozy Suburban Retreat in Countryside",
+        "image": "https://i.postimg.cc/sg9fzC1h/img.jpg"
+    },
+    {
+        "id": 4,
+        "date": "APR 10 2023",
+        "category": "RESIDENTIAL",
+        "title": "Urban Penthouse in Downtown Skyview Tower",
+        "image": "https://i.postimg.cc/d0V6FdJc/card-4.jpg"
+    }
+]

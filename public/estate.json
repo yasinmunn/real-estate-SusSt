@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Modern Family Home",
+        "segment_name": "Residential",
+        "description": "Spacious and beautifully designed family home with modern amenities.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Suburbia Estates, Cityville",
+        "facilities": ["4 bedrooms", "Swimming pool", "Open kitchen", "Garden"],
+        "image": "https://i.postimg.cc/RF8XXF55/Card-1.avif",
+        "button_text": "View Property"
+      },
+      {
+        "id": 2,
+        "estate_title": "Luxury Waterfront Villa",
+        "segment_name": "Residential",
+        "description": "Exquisite waterfront villa with stunning views and deluxe interiors.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "4000 sq ft",
+        "location": "Oceanfront Drive, Seaside City",
+        "facilities": ["5 bedrooms", "Private beach", "Infinity pool", "Spa"],
+        "image": "https://i.postimg.cc/dQkWD8rq/card-2.jpg",
+        "button_text": "View Property"
+      },
+      {
+        "id": 3,
+        "estate_title": "Cozy Suburban Retreat",
+        "segment_name": "Residential",
+        "description": "Charming single-family home nestled in a quiet suburban neighborhood.",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Greenwood Lane, Countryside",
+        "facilities": ["3 bedrooms", "Backyard patio", "Modern kitchen", "Garage"],
+        "image": "https://i.postimg.cc/sg9fzC1h/img.jpg",
+        "button_text": "View Property"
+      },
+      {
+        "id": 4,
+        "estate_title": "Urban Penthouse Retreat",
+        "segment_name": "Residential",
+        "description": "Luxurious penthouse with panoramic city views and top-notch amenities.",
+        "price": "$2,000,000",
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Skyview Tower, Downtown",
+        "facilities": ["3 bedrooms", "Rooftop terrace", "Gourmet kitchen", "Concierge services"],
+        "image": "https://i.postimg.cc/d0V6FdJc/card-4.jpg",
+        "button_text": "View Property"
+      }
+]
